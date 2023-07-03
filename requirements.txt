@@ -1,6 +1,6 @@
 prettytable
 ujson
-opencv-python
+opencv-python-headless
 pillow
 tqdm
 PyYAML>=5.1
